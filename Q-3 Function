@@ -1,0 +1,10 @@
+# Write a program to create function calculation() such that it can accept two variables and calculate addition and subtraction.
+
+def calculation(a, b):
+    addition = a + b
+    subtraction = a - b
+   
+    return addition, subtraction
+
+res = calculation(40, 10)
+print(res)

@@ -1,0 +1,9 @@
+# Write a program to create a function that takes two arguments, name and age, and print their value.
+
+ demo is the function name
+def demo(name, age):
+   
+    print(name, age)
+
+# call function
+demo("Ben", 25)
